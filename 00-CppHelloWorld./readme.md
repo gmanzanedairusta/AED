@@ -1,2 +1,3 @@
-compilador: MSYS2 project 11.3.0
+compilador: GNU
+
 tp0:
